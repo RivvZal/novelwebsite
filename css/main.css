@@ -1,5 +1,5 @@
     main {
-        background-image: url('/assets/background.png'); 
+        background-image: url('assets/background.png'); 
         color: whitesmoke; 
         min-height: 100vh; 
         padding: 20px; 
